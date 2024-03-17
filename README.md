@@ -5,7 +5,7 @@
     ⭐️ Harvesting Goodness,Naturally ⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+# [`Code link`](https://colab.research.google.com/github/Piro5121/CROP-RECOMMENDATION-SYSTEM-/blob/main/Crop_Classification_With_Recommendation_System.ipynb)  [`Demo video link `](https://drive.google.com/file/d/1-m15MIyTKTvfOh6siFXdFwrWh99FOnU1/view?usp=drive_link) [`Git Hub links `](https://github.com/balu018/crop_recommendation.git) 
 Our project aim is to help the farmers who are illiterate, meaning who don't know about what crop to cultivate based on PH value,Temperature, rainfall and other basic values.our project will also be usefull for all farmers regardless,who are hesitating about the type of crop to cultivate.  
 ## Team Details
 `Team number` : VH170
@@ -16,14 +16,6 @@ Our project aim is to help the farmers who are illiterate, meaning who don't kno
 | K.Balaraju | 99210041674@klu.ac.in |
 | Y.V.Harinadh Reddy | 99210042016@klu.ac.in |
 | T.Gangadhar | 9921004720@klu.ac.in |
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-</div>
 
 ## Problem statement 
 Many farmers who don't know about what type of crop to cultivate based on basic factors,In the future they will suffer by not getting the crop production which leads to many problems,we need to address this problem to improve the way of farming. 
@@ -36,7 +28,7 @@ mention the approach and how you have solved the problem with the technology , u
 - be consise and specific
 - explain with images and flowcharts
 - 
-![flowchart](https://drive.google.com/file/d/1M9uJgXf1B1LeAClV5SYBL3p_b1kRJhSm/view?usp=drive_link)
+![flowchart]![alt text](flowchart.png)
 output:![output1](https://github.com/gdsc-iiitdm-kancheepuram/Vashisht-hackathon-template/assets/163700525/8c6b7dbc-d353-4231-ba43-6974bb3b1271)
 ![output2](https://github.com/gdsc-iiitdm-kancheepuram/Vashisht-hackathon-template/assets/163700525/702e35a2-c894-4e14-9e8e-0fad49251927)
 
